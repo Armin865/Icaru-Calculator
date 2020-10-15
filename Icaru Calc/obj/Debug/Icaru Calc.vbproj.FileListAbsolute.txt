@@ -1,0 +1,16 @@
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.exe.config
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.exe
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.pdb
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.xml
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.vbprojAssemblyReference.cache
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru_Calc.Form1.resources
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru_Calc.Resources.resources
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.vbproj.GenerateResource.cache
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.vbproj.CoreCompileInputs.cache
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.exe
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.xml
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.pdb
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.exe.manifest
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\bin\Debug\Icaru Calc.application
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.exe.manifest
+C:\Users\leagu\source\repos\Icaru Calc\Icaru Calc\obj\Debug\Icaru Calc.application
